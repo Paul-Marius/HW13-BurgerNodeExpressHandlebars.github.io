@@ -1,0 +1,25 @@
+{
+  "name": "hw13-burgernodeexpresshandlebars.github.io",
+  "version": "1.0.0",
+  "description": "___\r ## Table of contents\r * [Description](#Description)\r * [Installation](#Installation)\r * [Usage](#Usage)\r * [Contribution](#Contribution)\r * [Test](#Test)\r * [License](#License)\r * [Questions](#Questions)\r ___",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Marius/HW13-BurgerNodeExpressHandlebars.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul-Marius/HW13-BurgerNodeExpressHandlebars.github.io/issues"
+  },
+  "homepage": "https://github.com/Paul-Marius/HW13-BurgerNodeExpressHandlebars.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
